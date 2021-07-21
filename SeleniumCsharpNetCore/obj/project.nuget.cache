@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/jIGtXppkOWeVKtYXlKkwHYky+SKEdlU4Mm7KvZYS6nRdRVRrFp0P+wuApvaqJsVQ6ymkhhQhbGVTZR5iuFNCw==",
+  "dgSpecHash": "JfjaMHVcdKDx7/SJdkwStGCg/Dt1dS8mYD6nByc4/Dl+u1Tlv/bhlVzGSgVtEiBDyKeu6jK6OJ7SgoE33i3hJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2Stallions\\source\\repos\\SeleniumCsharpNetCore\\SeleniumCsharpNetCore\\SeleniumCsharpNetCore.csproj",
+  "projectFilePath": "D:\\ria_workspace\\SeleniumCSharpNetCorePractice\\SeleniumCsharpNetCore\\SeleniumCsharpNetCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2Stallions\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\2Stallions\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

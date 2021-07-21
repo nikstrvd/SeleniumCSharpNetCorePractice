@@ -23,7 +23,6 @@ namespace SeleniumCsharpNetCore
             Driver.FindElement(By.Id("email")).SendKeys("superadmin@mail.com");
             Driver.FindElement(By.Id("password")).SendKeys("123456");
             Driver.FindElement(By.XPath("//button")).Click();
-            Console.WriteLine("Test1");
             Assert.Pass();
             Driver.Quit();
         }
